@@ -6,8 +6,10 @@ const  App = () => {
          placeItems: "center"
     }}>
 
-    <h1> Hello World </h1>
-    
+    <h1> Hello World </h1> 
+
+    <p> Hello from p </p> 
+
      </div>
   );
 }
